@@ -1,0 +1,62 @@
+
+*{
+    margin: 0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.font-open-sans {
+    font-family: 'Open Sans', sans-serif;
+    
+}
+.nav-items-open-sans{
+    font-weight: 500;
+    font-style: normal;
+    font-size: 17px;
+    color:#212832;
+}
+
+.font-poppins{
+    font-family:'Poppins';
+}
+.custom-orange{
+
+    font-weight:700;
+    size:20px;
+    line-height: 30px;
+    color:#DF6951;
+
+}
+.text-description{
+font-weight: 400;
+font-size:14px;
+line-height: 25px;
+color:#5E6282;
+}
+.service-icon-wrapper{
+    min-height: 120px;
+}
+.category-card{
+    max-width:fit-content;
+
+}
+img{
+    vertical-align: middle;
+}
+
+.destination-image-wrapper{
+height: 320px;
+
+}
+
+/* 
+.aero-plane1{
+    transform:translate(0px,20px)
+} */
+.airplane{
+    transform:rotate(25deg);
+}
+
+.aero-plane2{
+    transform:translate(350px,100px)
+}
